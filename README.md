@@ -28,7 +28,9 @@ Construirás un portafolio con proyectos impresionantes, demostrando a los emple
 
 ### Introduction to Data Analytics in Google Cloud
 
-- Diseña un plan de ciclo de vida de datos
+- [Diseña un plan de ciclo de vida de datos](project/docs/01_plan.pdf)
+  
+  - [Solución](project/docs/01_solucion.pptx)
   
   </p>
   <br />
