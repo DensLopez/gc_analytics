@@ -30,7 +30,7 @@ Construirás un portafolio con proyectos impresionantes, demostrando a los emple
 
 - [Diseña un plan de ciclo de vida de datos](project/docs/01_plan.pdf)
   
-  - [Solución](project/docs/01_solucion.pptx)
+  - [Solución](project/docs/01_solucion.pdf)
   
   </p>
   <br />
